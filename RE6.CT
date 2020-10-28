@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <LastState Value="845000" RealAddress="1D0C978C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1D0C978C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"No description"</Description>
+      <LastState Value="517840112" RealAddress="1EDCA248"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1EDCA248</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"No description"</Description>
+      <LastState Value="517774896" RealAddress="1EDCA24C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1EDCA24C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
